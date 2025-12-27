@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+python-dotenv
+requests
+
+groq
+
+youtube-transcript-api
+yt-dlp
+
+openai-whisper
+ffmpeg-python
+pydub
+

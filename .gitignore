@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual envs
+.venv/
+backend/.venv/
+
+# Downloads
+*.mp3
+*.wav
+*.m4a
+cookies.txt
+
+# Node
+node_modules/
+dist/
+build/
+
+# OS
+.DS_Store
